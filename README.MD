@@ -28,9 +28,6 @@ Para usar o aplicativo, siga as etapas abaixo:
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos que gostaria de adicionar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Autor
-Este projeto foi desenvolvido por [Seu Nome] como parte do processo de avaliação de um curso/projeto/atividade. 
-
 ---
 
 Este README serve como um guia básico para entender as principais características e funcionalidades do aplicativo móvel de autenticação. Sinta-se à vontade para expandi-lo conforme necessário, adicionando mais detalhes sobre a implementação, a arquitetura do código e outras informações relevantes.
@@ -49,7 +46,7 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 
 1. **Clone o repositório**: Clone este repositório em seu ambiente local usando o seguinte comando no terminal:
 ```bash
-git clone <URL do Repositório>
+git clone https://github.com/MiguelPereiraDantas/Trabalho-Mobile
 ```
 
 2. **Instale as Dependências**: Navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências necessárias:
