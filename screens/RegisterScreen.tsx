@@ -7,7 +7,6 @@ const RegisterScreen: React.FC = () => {
   const [password, setPassword] = useState('');
 
   const handleRegister = () => {
-    // implement your registration logic
     Alert.alert('Registration', `Username: ${username}\nEmail: ${email}\nPassword: ${password}`);
   };
 
