@@ -30,9 +30,6 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 
 ---
 
-Este README serve como um guia básico para entender as principais características e funcionalidades do aplicativo móvel de autenticação. Sinta-se à vontade para expandi-lo conforme necessário, adicionando mais detalhes sobre a implementação, a arquitetura do código e outras informações relevantes.
-
-
 ## Instruções de Uso
 
 ### Pré-requisitos
