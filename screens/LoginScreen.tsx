@@ -6,8 +6,6 @@ const LoginScreen: React.FC = () => {
   const [password, setPassword] = useState('');
 
   const handleLogin = () => {
-    // you can implement your login logic
-    // example, you can send a request to your backend with the username and password
     Alert.alert('Login', `Username: ${username}\nPassword: ${password}`);
   };
 
